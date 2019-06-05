@@ -38,3 +38,8 @@ When citing our work in academic papers, please use this BibTeX entry:
   publisher = {Springer International Publishing}
 }
 ```
+
+---
+## Acknowledgment
+
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) and Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul (FAPERGS) agreement (DOCFIX 04/2018). We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
